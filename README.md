@@ -8,3 +8,7 @@ Project 1: Build a simple neural network from scratch to make predictions on bik
 Project 2: Build a dog breed classifier using convolutional neural networks and transfer learning 
 
 Project 3: Generate new scripts for your favorite TV show using recurrent neural networks
+
+Project 4: Generate new human faces using Generative Adversarial Networks by training the network on faces of celebrities
+
+Project 5: Deploy a web app to perform sentiment analysis on movie reviews using Amazon Sagemaker
